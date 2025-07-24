@@ -43,11 +43,3 @@ REACT_APP_PAYMENT_KEY=your_key_here
 * Cart
 * Checkout
 * Payment Confirmation
-
-## 📜 License
-
-MIT License
-
----
-
-Let me know if you want to include screenshots or deployment steps!
