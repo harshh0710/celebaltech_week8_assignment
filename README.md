@@ -1,7 +1,3 @@
-Here’s a **brief version** of the README for your E-commerce Store project:
-
----
-
 # 🛒 E-Commerce Store (React)
 
 A modern frontend E-commerce store built with **React.js**, offering advanced features and a smooth user experience.
